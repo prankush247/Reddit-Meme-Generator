@@ -1,6 +1,5 @@
 arrayOfJokes=[
     `“Employee of the month is a good example of how somebody can be both a winner and a loser at the same time.” - Demetri Martin`,
-    `“What are you doing with a schoolbag on stage? You can’t even read.” -Conor McGregor`,
     `They put Joe Biden on a bike. You all know he is a senior citizen man and that's as much citizen as you can get. That dude hanging of the lord's doorstep dude, If the lord had had a ring cam he would see Joe Biden on that thing.  - Theo Von`
 ]
 let index = Math.floor(Math.random() * (arrayOfJokes.length));
