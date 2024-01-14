@@ -1,7 +1,10 @@
-arrayOfJokes=[
-    `“Employee of the month is a good example of how somebody can be both a winner and a loser at the same time.” - Demetri Martin`,
-    `They put Joe Biden on a bike. You all know he is a senior citizen man and that's as much citizen as you can get. That dude hanging of the lord's doorstep dude, If the lord had had a ring cam he would see Joe Biden on that thing.  - Theo Von`
-]
+const arrayOfJokes = [
+    `Why don't scientists trust atoms? Because they make up everything!`,
+    `What did one plate say to another? Tonight, dinner's on me!`,
+    `Why did the scarecrow win an award? Because he was outstanding in his field!`,
+    `How does a penguin build its house? Igloos it together!`,
+    `I told my computer I needed a break, and now it won't stop sending me vacation ads.`
+];
 let index = Math.floor(Math.random() * (arrayOfJokes.length));
 console.log(index)
 x=arrayOfJokes[index]
