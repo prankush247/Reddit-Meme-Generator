@@ -51,18 +51,19 @@ main{
     font-family: 'Slabo 27px', serif;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
     height: 55vh;
     background-image: url('WallpaperDog-20547141.jpg');
     background-size:cover;
     color: rgb(255, 255, 255);
 }
-main h1{
+/* main h1{
     padding-right: 20px;
-}
-main #prankush{
+} */
+/* main #prankush{
     padding-left:30px;
     margin-right: auto;
-}
+} */
 #redditData{
     color:aliceblue;
     display:flex;
